@@ -1,6 +1,6 @@
 # DAA-ALL ASSIGNMENTS
-This a Github depositary for DAA Assignments
-Name- Divyansh Dubey
-Roll no- 231070001
-Batch- A
-Course- B.Tech Computer Engineering (S.Y)
+<br>This a Github depositary for DAA Assignments
+<br>Name- Divyansh Dubey
+<br>Roll no- 231070001
+<br>Batch- A
+<br>Course- B.Tech Computer Engineering (S.Y)
