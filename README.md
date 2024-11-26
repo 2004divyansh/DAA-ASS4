@@ -1,4 +1,6 @@
-# DAA-ASS4
-This a new project for DAA assignment 4.
-Here I will be doing all the tasks given of DAA assignment 4.
-Author- Divyansh Dubey
+# DAA-ALL ASSIGNMENTS
+This a Github depositary for DAA Assignments
+Name- Divyansh Dubey
+Roll no- 231070001
+Batch- A
+Course- B.Tech Computer Engineering (S.Y)
